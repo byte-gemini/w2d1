@@ -1,0 +1,8 @@
+import model
+import view
+
+#TODO flesh out this stub method.
+def gameloop():
+	while True:
+		user_input
+
